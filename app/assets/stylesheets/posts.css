@@ -1,0 +1,13 @@
+.post {
+  border: 1px solid;
+  margin-top: 40px;
+  width: 40%;
+}
+
+.post_crated {
+  color: rgb(61, 66, 66);
+} 
+
+div[data-check="true"] {
+  background: #585555;
+}
